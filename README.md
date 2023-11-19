@@ -19,11 +19,11 @@ In a world full of choices, let “God’s Decision” light your path. Download
 ---
 
 ## How To Use
-<img src="https://lh3.googleusercontent.com/-FHCJcnxl6-4/ZVo-XOpNbJI/AAAAAAAAAyo/sChXg0pavYgdGwVUIPO9Qd70Pr5MuW5mACNcBGAsYHQ/h120/zero.jpg" width="280px"/> <img src="https://lh3.googleusercontent.com/-9PApm2rYrp0/ZVo-zkymi6I/AAAAAAAAAy0/MVnOemNxGH4ATEnx-ufxHv4oAByBJTfXwCNcBGAsYHQ/h120/one.jpg" width="280px"/>
- <img src="https://lh3.googleusercontent.com/-a5s1WmUS7Zw/ZVo-stHQ3CI/AAAAAAAAAyw/ET5EJjfBE8wQiQoA4nx30_Jb4BwfBaWTACNcBGAsYHQ/h120/two.jpg" width="280px"/>
+<img src="https://github.com/harshsharma7102001/Gods-Decision/blob/master/zero.jpg" width="280px"/> <img src="https://github.com/harshsharma7102001/Gods-Decision/blob/master/one.jpg" width="280px"/>
+ <img src="https://github.com/harshsharma7102001/Gods-Decision/blob/master/two.jpg" width="280px"/>
  
- <img src="https://lh3.googleusercontent.com/-lGFt40VTiXU/ZVo-0oVqOvI/AAAAAAAAAzI/vfIOwxnROKUz7IN_xBM7QHhUozT5t1dbACNcBGAsYHQ/h120/three.jpg" width="280px"/> <img src="https://lh3.googleusercontent.com/-9b1Hffxfdu0/ZVo-zyUbM8I/AAAAAAAAAy8/Dz7POFZXgsEX-bGDZw3U3RpkjzLuv1CAgCNcBGAsYHQ/h120/four.jpg" width="280px"/>
- <img src="https://lh3.googleusercontent.com/-xMoJ35Ii-gc/ZVo-zu_dn-I/AAAAAAAAAy4/H5BBEhWsFw4Xvcb5NrhZp1ufJHgpCcvYgCNcBGAsYHQ/h120/five.jpg" width="280px"/><img src="https://lh3.googleusercontent.com/-itlQR5x285A/ZVo-0rLVUtI/AAAAAAAAAzE/vwqDm1xAGycZyNaNJAzvRA76z7qFVPmKgCNcBGAsYHQ/h120/six.jpg" width="280px"/><img src="https://lh3.googleusercontent.com/-1hzzFB6KGk8/ZVo-0eO5ICI/AAAAAAAAAzA/P4Gzv5yjt1cPaWW0fuJcaKqey1-CU_93wCNcBGAsYHQ/h120/seven.jpg" width="280px"/>
+ <img src="https://github.com/harshsharma7102001/Gods-Decision/blob/master/three.jpg" width="280px"/> <img src="https://github.com/harshsharma7102001/Gods-Decision/blob/master/four.jpg" width="280px"/>
+ <img src="https://github.com/harshsharma7102001/Gods-Decision/blob/master/five.jpg" width="280px"/><img src="https://github.com/harshsharma7102001/Gods-Decision/blob/master/six.jpg" width="280px"/><img src="https://github.com/harshsharma7102001/Gods-Decision/blob/master/seven.jpg" width="280px"/>
 
 ## Note
 Before you start using the app make sure to change your API key in the app at the given  position.

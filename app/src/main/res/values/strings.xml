@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">God\'s Decision</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ApiKey">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</string>
+    <string name="ai_response">Ai response</string>
+    <string name="your_tasks">Your Tasks</string>
+    <string name="want_a_time_table_click_on_the_below_button_to_generate">Want a time table!! Click on the below button to generate</string>
+</resources>

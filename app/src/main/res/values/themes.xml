@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GodsDecision" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+         <item name="colorPrimary">@color/yellow</item>
+    </style>
+
+    <style name="Theme.GodsDecision" parent="Base.Theme.GodsDecision" />
+</resources>
